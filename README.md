@@ -1,1 +1,1 @@
-# Version-Control
+This repository is for learning version control with Git
